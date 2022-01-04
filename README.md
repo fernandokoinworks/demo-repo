@@ -1,3 +1,3 @@
 #Demo
 
-this is demo project i try for learning github
+this is demo project for learning github
